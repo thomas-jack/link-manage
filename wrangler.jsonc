@@ -1,6 +1,6 @@
 49a816de42c248c4bbe0614b5d4784af{
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "arg-nav",
+	"name": "cswxnav",
 	"main": "worker/index.ts",
 	"compatibility_date": "2025-11-22",
 	// 静态资源：让 wrangler 帮你把 dist 目录当成 Static Assets 上传
